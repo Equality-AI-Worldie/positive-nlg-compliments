@@ -8,6 +8,8 @@
 
 + Video demonstration (mp4) :: [[./demo1.mp4]]
 
++ Video demonstration (gif) :: [[./demo1.gif]]
+
 
 + 8000+ and still generating :: https://asciinema.org/a/YexeaMmvc15iaGzHQFLMD1tr0
 
