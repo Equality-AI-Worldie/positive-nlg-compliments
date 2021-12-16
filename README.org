@@ -3,4 +3,18 @@
 
 [[./compliments.txt]]
 
-https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ
++ Video demonstration :: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ
+
++ Prompt :: http://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt
+
+*** Final generated prompt:
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  The following are nice compliments:
+  ###
+  TOPIC: Jason Momoa
+  - He has fame, but he doesn't want it. He has advantage but he doesn't take it. And he definitely has all our hearts!!!!!
+  ###
+  TOPIC: Amber Heard
+  -
+#+END_SRC
