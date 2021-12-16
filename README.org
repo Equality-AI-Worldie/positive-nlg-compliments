@@ -1,4 +1,6 @@
 * Social Rescue Tech example
 ** Positive NLG Compliments
 
+[[./compliments.txt]]
+
 https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ
