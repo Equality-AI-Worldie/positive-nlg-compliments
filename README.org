@@ -38,3 +38,10 @@
 
 ** Simulate real conversation using NLU and NLG
 + Demonstration :: https://semiosis.github.io/apostrophe/
+
++ Conversation demo 1 :: https://asciinema.org/a/K40px4H4CPPN15QMz6Uy8Pz3q
+
++ Conversation demo 2 :: https://asciinema.org/a/aLn5lZq5yIeBxR6dyFyveDJGc
+
++ Conversation demo 3 :: https://asciinema.org/a/YdX4bzPownHsVT3T0UPLMcp3c
+
