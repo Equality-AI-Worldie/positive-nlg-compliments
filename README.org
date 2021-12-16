@@ -18,6 +18,10 @@
 
 + And still generating :: https://asciinema.org/a/cuCzjyq5EwT6dV8Xp3RIk9B3l
 
++ Video demonstration (mp4) :: [[./demo3.mp4]]
+
++ Video demonstration (gif) :: [[./demo3.gif]]
+
 *** Code
 + Prompt :: http://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt
 
