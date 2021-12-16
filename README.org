@@ -56,3 +56,47 @@
 + Video demonstration (mp4) :: [[./conv-demo3.mp4]]
 
 + Video demonstration (gif) :: [[./conv-demo3.gif]]
+
+** Time taken to generate
+#+BEGIN_SRC bash -n :i bash :async :results verbatim code
+  git show -s --format=%at a9fccf1
+#+END_SRC
+
+#+RESULTS:
+#+begin_src bash
+1639635963
+#+end_src
+
+#+BEGIN_SRC bash -n :i bash :async :results verbatim code
+  git show -s --format=%at 08b7c56
+#+END_SRC
+
+#+RESULTS:
+#+begin_src bash
+1639627967
+#+end_src
+
+#+BEGIN_SRC bash -n :i bash :async :results verbatim code
+  # Seconds
+  echo "1639635963 - 1639627967" | bc
+#+END_SRC
+
+#+RESULTS:
+#+begin_src bash
+7996
+#+end_src
+
+#+BEGIN_SRC bash -n :i bash :async :results verbatim code
+  # Total minutes
+  echo "(1639635963 - 1639627967) / 60" | bc
+#+END_SRC
+
+#+RESULTS:
+#+begin_src bash
+133
+#+end_src
+
+It took just over 2 hours to generate 10k
+compliments.
+
+This pipeline will be sped up in the near future by a factor of around 10x.
