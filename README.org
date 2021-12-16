@@ -41,7 +41,18 @@
 
 + Conversation demo 1 :: https://asciinema.org/a/K40px4H4CPPN15QMz6Uy8Pz3q
 
++ Video demonstration (mp4) :: [[./conv-demo1.mp4]]
+
++ Video demonstration (gif) :: [[./conv-demo1.gif]]
+
 + Conversation demo 2 :: https://asciinema.org/a/aLn5lZq5yIeBxR6dyFyveDJGc
+
++ Video demonstration (mp4) :: [[./conv-demo2.mp4]]
+
++ Video demonstration (gif) :: [[./conv-demo2.gif]]
 
 + Conversation demo 3 :: https://asciinema.org/a/YdX4bzPownHsVT3T0UPLMcp3c
 
++ Video demonstration (mp4) :: [[./conv-demo3.mp4]]
+
++ Video demonstration (gif) :: [[./conv-demo3.gif]]
